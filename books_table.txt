@@ -1,0 +1,50 @@
+{
+    "title": "la bete humaine",
+    "author": "zola",
+    "publishYear": 2000
+},
+{
+    "title": "candide",
+    "author": "voltaire",
+    "publishYear": 1759
+},
+{
+    "title": "les miserables",
+    "author": "hugo",
+    "publishYear": 1862
+},
+{
+    "title": "madame bovary",
+    "author": "flaubert",
+    "publishYear": 1857
+},
+{
+    "title": "the plague",
+    "author": "camus",
+    "publishYear": 1947
+},
+{
+    "title": "war and peace",
+    "author": "tolstoy",
+    "publishYear": 1869
+},
+{
+    "title": "crime and punishment",
+    "author": "dostoevsky",
+    "publishYear": 1866
+},
+{
+    "title": "the great gatsby",
+    "author": "fitzgerald",
+    "publishYear": 1925
+},
+{
+    "title": "moby dick",
+    "author": "melville",
+    "publishYear": 1851
+},
+{
+    "title": "pride and prejudice",
+    "author": "austen",
+    "publishYear": 1813
+}
