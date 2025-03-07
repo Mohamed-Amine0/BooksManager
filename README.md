@@ -83,13 +83,7 @@ npm run dev
 
 ## Architecture
 
-### Schéma d'architecture
-```mermaid
-graph TD;
-    A[Client] -->|HTTP Requests| B[Frontend (React)];
-    B -->|API Calls| C[Backend (Express)];
-    C -->|Database Queries| D[Database (MongoDB)];
-```
+![alt text](image.png)
 
 ### Structure des répertoires essentiels
 ```
